@@ -1,0 +1,5 @@
+1. npx create-react-app project-name
+2. cd project-name
+3. copy src, public in template
+4. npm install mdbreact
+5. npm start
